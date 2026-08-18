@@ -1,0 +1,6 @@
+{
+  "name": "B-in Charge Mobile Stations",
+  "description": "Real-time mobile cell charging station usage records, inventory tracking, event booking and payment system for B-in Charge South Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
